@@ -1,3 +1,1 @@
-# Anketa
-# NorocevschiVladimir-Anketa
 # casenoi
